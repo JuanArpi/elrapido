@@ -1,2 +1,2 @@
-# elrapido
-pagina de elrapido prueba
+# rositarestaurant
+Página estática de Rosita Restaurant
