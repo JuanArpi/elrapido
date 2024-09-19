@@ -1,2 +1,2 @@
-# rositarestaurant
-Página estática de Rosita Restaurant
+# El Rápido
+Página estática de el Rápido con diseño de Rosita Restaurant :P
